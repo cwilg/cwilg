@@ -12,8 +12,9 @@
 ## 💞️ I’m looking to collaborate on ...
   - ...anything and everything under the Sun. I'm always curious.
 ## 📫 How to reach me ...
-  - e: corey.wilga@gmail.com
-  - [GPG Public Key]
+  - [corey.wilga@gmail.com](mailto:corey.wilga@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/coreywilga/)
+  - [GPG Public Key](https://github.com/cwilg/cwilg/blob/main/cwilg_key.pub) (or cURL [here](https://raw.githubusercontent.com/cwilg/cwilg/main/cwilg_key.pub))
 
 <!---
 cwilg/cwilg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
