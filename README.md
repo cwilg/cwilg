@@ -4,10 +4,12 @@
   - Cybersecurity
   - Linux/Windows Administration & Hardening
   - Offensive Security
+  - Blue Team
   - Cloud Deployment
 ## 🌱 I’m currently learning ...
+  - SIEMs (Splunk & ELK)
   - Web Vulnerabilities and Hardening
-  - Penetration Testing
+  - Penetration Testing (Metasploit, Recon-ng, OSINT, Nmap, SQLmap, etc.)
   - Microsoft Azure
 ## 💞️ I’m looking to collaborate on ...
   - ...anything and everything under the Sun. I'm always curious.
