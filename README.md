@@ -1,4 +1,4 @@
-# Hi, I’m @cwilg 👋 
+# Hi, I’m Corey Wilga 👋 
 
 ## 👀 I’m interested in ...
   - Cybersecurity
